@@ -4,6 +4,15 @@
     text-align: center;
 }
 
+body{
+    margin:0;
+    padding: 0;
+    background-image: url("image.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height:100vh;
+}
 
 h1{
     background-color: #081b31;
@@ -63,7 +72,7 @@ img{
 }
 
 #msg {
-    background-color: #0b2542;
+    background-color: #3e07f0;
     color: #ffff;
     font-size: 2rem;
     display: inline-block;
