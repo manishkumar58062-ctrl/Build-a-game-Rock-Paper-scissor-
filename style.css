@@ -60,10 +60,12 @@ img{
     font-size: 2rem;
     margin-top: 3rem;
     gap:5rem;
+    color:#fff;
 }
 
 #user-score, #Comp-score{
     font-size: 4rem;
+    color:#fff;
 }
 
 .msg-container{
